@@ -42,7 +42,4 @@ Welcome to my corner of GitHub, where the code is occasionally messy but always 
 ---
 
 ## ⚡ Fun Fact  
-I’m not just learning to code—I’m learning to debug life itself. So, if you see me smashing the keyboard, don’t worry, it’s just my way of saying “Hello, World!” 😎  
-
-## 🥷 Open Source Contribution
-[![AbhishekSavant-005's GitHub | Stats](https://stats.quira.sh/AbhishekSavant-005/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AbhishekSavant-005)
+I’m not just learning to code—I’m learning to debug life itself. So, if you see me smashing the keyboard, don’t worry, it’s just my way of saying “Hello, World!” 😎 
